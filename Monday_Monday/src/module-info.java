@@ -1,0 +1,2 @@
+module Monday_Monday {
+}
